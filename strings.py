@@ -2,12 +2,12 @@ myStr = "Hello World"
 
 # print(dir(myStr))
 
-print(myStr.upper())
-print(myStr.lower())
-print(myStr.swapcase()) 
-print(myStr.capitalize())
+print(myStr.upper()) # to upper case
+print(myStr.lower()) # to lower case 
+print(myStr.swapcase())  # swaps the case
+print(myStr.capitalize()) # first character to upper case
 
-print(myStr.replace("Hello", "Bye").upper())
+print(myStr.replace("Hello", "Bye").upper()) 
 print(myStr.count("l"))
 
 print(myStr.startswith("Hello"))

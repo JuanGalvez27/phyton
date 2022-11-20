@@ -22,3 +22,7 @@ print(dir,x)
 book_name = "Cómo ser un estoico" # Snake case
 bookName = "El Enquiridión" # Camel case
 BookName = "Gargantua y pantagruel" # Pascal case
+
+# Const convention
+PI = 3.1416
+MY_NAME= "Fernando"
